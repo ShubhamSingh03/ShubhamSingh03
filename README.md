@@ -10,7 +10,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [Javascript Interview Cheatsheet](https://shubhambhoj.hashnode.dev/javascript-interview-cheatsheet)
+ - 🌮 [Var, Let &amp; Const Difference in JavaScript](https://shubhambhoj.hashnode.dev/var-let-const-difference-in-javascript)
+ - 🔥 [Arrays &amp; it&#39;s method in JavaScript](https://shubhambhoj.hashnode.dev/array-in-javascript)
+ - 🌮 [Basics of JavaScript Programming](https://shubhambhoj.hashnode.dev/basics-of-js-programming)
+ - 💫 [Html &amp; Css Journey](https://shubhambhoj.hashnode.dev/html-css-journey)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
