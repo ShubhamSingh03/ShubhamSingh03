@@ -10,11 +10,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Javascript Interview Cheatsheet](https://shubhambhoj.hashnode.dev/javascript-interview-cheatsheet)
+ - 💫 [Class, Class Methods and Inheritance of Class](https://shubhambhoj.hashnode.dev/class-in-js)
+ - 🌮 [Objects and it&#39;s Methods in Javascript](https://shubhambhoj.hashnode.dev/objects-and-its-methods-in-javascript)
+ - 🔥 [Javascript Interview Cheatsheet](https://shubhambhoj.hashnode.dev/javascript-interview-cheatsheet)
  - 🌮 [Var, Let &amp; Const Difference in JavaScript](https://shubhambhoj.hashnode.dev/var-let-const-difference-in-javascript)
- - 🔥 [Arrays &amp; it&#39;s method in JavaScript](https://shubhambhoj.hashnode.dev/array-in-javascript)
- - 🌮 [Basics of JavaScript Programming](https://shubhambhoj.hashnode.dev/basics-of-js-programming)
- - 💫 [Html &amp; Css Journey](https://shubhambhoj.hashnode.dev/html-css-journey)<!-- BLOGPOSTS:END -->
+ - 💫 [Arrays &amp; it&#39;s method in JavaScript](https://shubhambhoj.hashnode.dev/array-in-javascript)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
