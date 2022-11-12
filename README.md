@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://shubhambhoj.in)
+- 👨‍💻 All of my projects are available at [https://shubhambhoj.in](https://shubhambhoj.in)
 
 - 📝 I regularly write articles on [https://shubhambhoj.hashnode.dev/](https://shubhambhoj.hashnode.dev/)
 
