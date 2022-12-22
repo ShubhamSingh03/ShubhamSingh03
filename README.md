@@ -19,6 +19,9 @@
                                                          Projects](https://shubhambhoj.hashnode.dev/js-projects)
  - 💫 [Class, Class Methods and Inheritance of Class](https://shubhambhoj.hashnode.dev/class-in-js)<!-- BLOGPOSTS:END -->
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-singh-b122b7171" height="30" width="40" /></a>
@@ -33,5 +36,13 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsingh03&show_icons=true&locale=en" alt="shubhamsingh03" /></p> -->
 
+# 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsingh03&" alt="shubhamsingh03" /></p>
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+
+
 
