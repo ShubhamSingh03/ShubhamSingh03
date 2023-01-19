@@ -12,12 +12,12 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Project Discussion - Shoes Shopping Webpage](https://shubhambhoj.hashnode.dev/project-shoes)
- - 🌮 [v8 engine in Node.js](https://shubhambhoj.hashnode.dev/v8-engine-in-nodejs)
- - 🔥 [React Basics](https://shubhambhoj.hashnode.dev/react-basics)
- - 🌮 [Beginner&amp; Intermediate Friendly JavaScripts 
-                                                         Projects](https://shubhambhoj.hashnode.dev/js-projects)
- - 💫 [Class, Class Methods and Inheritance of Class](https://shubhambhoj.hashnode.dev/class-in-js)<!-- BLOGPOSTS:END -->
+ - 💫 [Execution Context in JavaScript](https://shubhambhoj.hashnode.dev/execution-context-in-javascript)
+ - 🌮 [Project Discussion - Shoes Shopping Webpage](https://shubhambhoj.hashnode.dev/project-shoes)
+ - 🔥 [v8 engine in Node.js](https://shubhambhoj.hashnode.dev/v8-engine-in-nodejs)
+ - 🌮 [React Basics](https://shubhambhoj.hashnode.dev/react-basics)
+ - 💫 [Beginner&amp; Intermediate Friendly JavaScripts 
+                                                         Projects](https://shubhambhoj.hashnode.dev/js-projects)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
