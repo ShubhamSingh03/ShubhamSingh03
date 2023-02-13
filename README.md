@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=F7008F&width=550&height=45&lines=Fron-end+Developer+%26+UI/UX+Developer+;MERN+Stack+Developer)](https://git.io/typing-svg) from India </h3>
+<h3 align="center">A passionate [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=F7008F&width=550&height=45&lines=Front-end+Developer+;UI/UX+Developer+;MERN+Stack+Developer)](https://git.io/typing-svg) from India </h3>
 <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" align="right" />
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shubham-singh-b122b7171" height="30" width="40" /></a>
-<a href="https://shubhambhoj.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="@shubhambhoj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmBcF63DSMqM9k3-O2hxFow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shubham-singh-b122b7171" height="40" width="40" /></a>
+<a href="https://shubhambhoj.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="@shubhambhoj" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmBcF63DSMqM9k3-O2hxFow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="shubham" height="40" width="40" /></a>
  
  </p>
 
