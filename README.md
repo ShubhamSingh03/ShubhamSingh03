@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
 
-- 👨‍💻 All of my projects are available at [https://shubhambhoj.in](https://shubhambhoj.in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhambhoj.in)
 
-- 📝 I regularly write articles on [https://shubhambhoj.hashnode.dev/](https://shubhambhoj.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode Blogs](https://shubhambhoj.hashnode.dev/)
 
 - 📫 How to reach me **shubhambhoj3@gmail.com**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-singh-b122b7171" height="30" width="40" /></a>
-<a href="https://shubhambhoj.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubhambhoj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmBcF63DSMqM9k3-O2hxFow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubham-singh-b122b7171" height="30" width="40" /></a>
+<a href="https://shubhambhoj.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/hashnode-1118F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="@shubhambhoj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmBcF63DSMqM9k3-O2hxFow" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="shubham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
