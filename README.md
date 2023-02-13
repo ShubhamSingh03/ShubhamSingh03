@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=F7008F&width=550&height=45&lines=Front-end+Developer+;UI/UX+Developer+;MERN+Stack+Developer)](https://git.io/typing-svg) from India </h3>
+<h3 align="CENTER" > 
+<a href="https://github.com/ShubhamSingh03">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=200&color=F7008F&width=280&height=50&lines=Front-end+Developer+;UI/UX+Developer+;MERN+Stack+Developer"/></a>
+</h3>
+
+
 <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" align="right" />
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
