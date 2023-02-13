@@ -20,11 +20,9 @@
                                                          Projects](https://shubhambhoj.hashnode.dev/js-projects)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/shubham-singh-b122b7171" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubham-singh-b122b7171" height="30" width="40" /></a>
 <a href="https://shubhambhoj.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/hashnode-1118F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="@shubhambhoj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmBcF63DSMqM9k3-O2hxFow" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="shubham" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
