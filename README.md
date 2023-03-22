@@ -4,6 +4,8 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=200&color=F7008F&width=280&height=50&lines=Front-end+Developer+;UI/UX+Developer+;MERN+Stack+Developer"/></a>
 </h3>
 
+<img alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" align="right" />
+
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
 
