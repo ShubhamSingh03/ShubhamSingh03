@@ -17,12 +17,12 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Execution Context in JavaScript](https://shubhambhoj.hashnode.dev/execution-context-in-javascript)
- - 🌮 [Project Discussion - Shoes Shopping Webpage](https://shubhambhoj.hashnode.dev/project-shoes)
- - 🔥 [v8 engine in Node.js](https://shubhambhoj.hashnode.dev/v8-engine-in-nodejs)
- - 🌮 [React Basics](https://shubhambhoj.hashnode.dev/react-basics)
- - 💫 [Beginner&amp; Intermediate Friendly JavaScripts 
-                                                         Projects](https://shubhambhoj.hashnode.dev/js-projects)<!-- BLOGPOSTS:END -->
+ - 💫 [Why can&#39;t  we have asynchronous callback function 
+                                                     in useEffect&lpar;&rpar;](https://shubhambhoj.hashnode.dev/useeffect-async)
+ - 🌮 [Execution Context in JavaScript](https://shubhambhoj.hashnode.dev/execution-context-in-javascript)
+ - 🔥 [Project Discussion - Shoes Shopping Webpage](https://shubhambhoj.hashnode.dev/project-shoes)
+ - 🌮 [v8 engine in Node.js](https://shubhambhoj.hashnode.dev/v8-engine-in-nodejs)
+ - 💫 [React Basics](https://shubhambhoj.hashnode.dev/react-basics)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
