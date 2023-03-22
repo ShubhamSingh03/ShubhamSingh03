@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="CENTER" > 
-<a href="https://github.com/ShubhamSingh03">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=200&color=F7008F&width=280&height=50&lines=Front-end+Developer+;UI/UX+Developer+;MERN+Stack+Developer"/></a>
+<a href="https://github.com/ShubhamSingh03"></a>
 </h3>
 
 
