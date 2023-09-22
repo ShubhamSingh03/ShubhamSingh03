@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Javascript Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shubhambhoj.in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubham5.netlify.app/)
 
 - 📝 I regularly write articles on [Hashnode Blogs](https://shubhambhoj.hashnode.dev/)
 
