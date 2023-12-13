@@ -17,8 +17,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Why can&#39;t  we have asynchronous callback function 
-                                                     in useEffect&lpar;&rpar;](https://shubhambhoj.hashnode.dev/useeffect-async)
+ - 💫 [Why can&#39;t  we have asynchronous callback function                                                      in useEffect&lpar;&rpar;](https://shubhambhoj.hashnode.dev/useeffect-async)
  - 🌮 [Execution Context in JavaScript](https://shubhambhoj.hashnode.dev/execution-context-in-javascript)
  - 🔥 [Project Discussion - Shoes Shopping Webpage](https://shubhambhoj.hashnode.dev/project-shoes)
  - 🌮 [v8 engine in Node.js](https://shubhambhoj.hashnode.dev/v8-engine-in-nodejs)
