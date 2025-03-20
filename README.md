@@ -6,9 +6,6 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" align="right" />
 
-
-- 🌱 I’m currently learning **Full Stack Javascript Web Development**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubham5.netlify.app/)
 
 - 📝 I regularly write articles on [Hashnode Blogs](https://shubhambhoj.hashnode.dev/)
